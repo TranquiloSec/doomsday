@@ -36,6 +36,7 @@ git clone https://github.com/ConfettiOnTheWall/DoomsDay.git
     ```bash
     source venv/bin/activate
     ```
+4. Baixe os requirements pelo requirements.txt
     ``` bash
     pip install -r requirements.txt
     ```
