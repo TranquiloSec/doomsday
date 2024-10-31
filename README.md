@@ -52,8 +52,7 @@ deactivate
 
 ## Contribuições
 
-Contribuições são bem-vindas! Sinta-se à vontade para enviar issues ou pull requests.
-
+Este código foi criado pela equipe TranquiloSec para um projeto de faculdade. Contribuições são bem-vindas! Sinta-se à vontade para enviar issues ou pull requests.
 ## Licença
 
 Esse projeto está sob a licença MIT.
