@@ -37,7 +37,7 @@
 
 1. **Clone the Repository:**
     ```bash
-    git clone https://github.com/ConfettiOnTheWall/DoomsDay.git
+    git clone https://github.com/TranquiloSec/doomsday.git
     ```
 
 2. **Navigate into the Project Directory:**
