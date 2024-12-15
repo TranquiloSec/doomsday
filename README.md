@@ -27,7 +27,7 @@
 
 ## Requirements
 
-- **Python 3:** Required on Unix/Linux or WSL environments.
+- **Python 3:** Required on Unix/Linux/WSL or Windows environments.
 - **Git:** For cloning the repository.
 - **Internet Connection:** For optional proxy downloading and crawling.
 - **Proper Authorization:** Ensure you have permission to test the target system.
