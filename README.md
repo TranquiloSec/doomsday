@@ -20,9 +20,6 @@
 - **Automated Crawler (Optional):**  
   Crawl the target domain to find the "heaviest" or slowest URLs, allowing for more focused testing on high-load endpoints.
 
-- **Resource Validation:**  
-  Automatically ensure required directories and files (e.g., `resources`, `ua.txt`, `proxy.txt`, `headers.txt`) exist before running tests.
-
 ---
 
 ## Requirements
