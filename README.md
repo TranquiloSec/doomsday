@@ -49,7 +49,7 @@
 
 1. Run the provided setup file:
     ```bash
-    DoomsDay_setup.bat
+    setup.bat
     ```
     This script installs dependencies and configures the environment.
 
