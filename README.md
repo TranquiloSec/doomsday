@@ -79,7 +79,7 @@ Your environment is now set up and ready for use.
 Once your environment is prepared, run DoomsDay with various command-line options:
 
 ```bash
-python3 TranquiloDDoS.py --url "https://targetdomain.com" --thread 500
+python3 doom.py --url "https://targetdomain.com" --thread 500
 ````
 
 **Other Options:**
@@ -93,7 +93,7 @@ python3 TranquiloDDoS.py --url "https://targetdomain.com" --thread 500
 For a full list of options:
 
 ```bash
-python3 TranquiloDDoS.py --help
+python3 doom.py --help
 ```
 
 **Deactivate the Virtual Environment:**
